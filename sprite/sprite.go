@@ -3,7 +3,6 @@ package sprite
 import (
 	"os"
 
-	// "github.com/go-gl/gl/v4.1-core/gl"
 	"github.com/go-gl/gl/v4.1-core/gl"
 	"github.com/municorn/chicky-chicky-go/render"
 	"github.com/municorn/chicky-chicky-go/textures"

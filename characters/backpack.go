@@ -1,9 +1,9 @@
 package characters
 
 import (
-	"github.com/municorn/chicky-chicky-go/types"
+	"github.com/municorn/chicky-chicky-go/items"
 )
 
 // Backpack is really just a fun alternative name for
 // "[]Item" and "inventory" :)
-type Backpack []types.Item
+type Backpack []items.Item
